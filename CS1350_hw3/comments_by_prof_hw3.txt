@@ -1,0 +1,33 @@
+1. Grading Rubric:
+   * String methods:          
+    * Receipt Formatting     10 out of 10
+    * Data Processing        12 out of 12
+    * Text Analysis          13 out of 13
+   * Regular Expression:     
+    * Pattern Finding        10 out of 10
+    * Format Validation      12 out of 12
+    * Information Extraction 13 out of 13
+   * Combined:                
+    * Cleaning Pipeline      10 out of 10
+    * Smart Replace          10 out of 10
+   * Application:            
+    * Log Analysis           10 out of 10 
+   
+Total: 100 out of 100
+
+Great job, and keep up the good work, Amari!
+
+Details:
+Line 35-40: Nice checking against single and empty names
+Line 90: r'\b\d+\b' is sufficient, you are already checking against the word
+         boundary
+Line 92: This will only match words with exactly one digit
+Line 164: No need for strip
+Line 191-198: No need to be this complicated--parts[i+1] will be the separator, 
+              and upper() returns the sample
+Line 233: Great using flags.
+
+
+
+
+
