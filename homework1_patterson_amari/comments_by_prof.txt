@@ -1,0 +1,10 @@
+1. Grading Rubric:
+   * Testing & Documentation--8 out 10
+   * Code Quality -- Bonus + 10
+   * User Interface -- 15 out of 15
+   * Advanced Operations -- 0 out of 35
+   * Core Contact Management -- 0 out of 40
+
+3. Total: 33 out of 100.
+
+Dr. X. W.
