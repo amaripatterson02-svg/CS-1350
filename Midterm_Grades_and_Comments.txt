@@ -1,0 +1,18 @@
+***This contains only the grades for the coding part***
+
+Great job, Amari,
+
+Grading Rubrics:
+    Problem 1:
+    - add_student:                  4 out of 5 points
+    - get_class_average:            10 out of 5 points
+    - get_passing_students:         10 out of 10 bonus points
+
+    Problem 4:
+    - clean_name:                   5 out of 5 points
+    - validate_email:               4 out of 5 points
+    - format_phone:                 4 out of 5 points
+    - process_registration:         5 out of 5 points
+
+
+Total Points: 45 out of 35
