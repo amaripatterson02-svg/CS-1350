@@ -1,0 +1,24 @@
+art I              40 out of 40
+Part II             75 out of 50
+Part II Grading Rubrics:
+Problem 1:              25 out of 25
+    Case insensitive:   5 out of 5
+    Open and read file: 10 out of 10
+    Count line:         10 out of 10
+
+Problem 3:              25 out of 25
+    convert numbers:    5 out of 5
+    parse operators:    10 out of 10 
+    Exception handling: 10 out of 10
+
+Problem 4:          25 out of 25
+    Ignore spaces:  5 out of 5
+    Ignore cases:   4 out of 5
+    Base cases:     5 out of 5
+    Recursive step: 10 out of 10
+
+Comments:
+Problem 3:
+    Line 24: comparing a floating number == to 0 (int) can be 
+            falsely False due to floating representation of numbers
+    
